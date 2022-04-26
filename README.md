@@ -1,8 +1,11 @@
 #Hi there👋
 
-![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhyxayxx&count_private=true&show_icons=true&theme=monokai)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxhyxayxx&layout=compact&theme=monokai)
-
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=xxhyxayxx&count_private=true&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxhyxayxx&layout=compact&theme=monokai" />
+</a>
 
 - 👋 Hi, I’m @xxhyxayxx
 - 👀 I’m interested in ...
