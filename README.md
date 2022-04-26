@@ -1,7 +1,7 @@
 #Hi there👋
 
 [![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhyxayxx)](https://github.com/xxhyxayxx/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhyxayxxa&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhyxayxx&count_private=true)
 
 
 - 👋 Hi, I’m @xxhyxayxx
